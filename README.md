@@ -21,6 +21,8 @@ Monthly revenue and profit summary for trend analysis.
 | total_profit | Sum of profit |
 | avg_processing_days | Average fulfilment time |
 
+![Gold_layer](gold_layer.png)
+
 ### gold_revenue_by_segment
 Revenue breakdown by customer segment per year.
 | Column | Description |
@@ -31,6 +33,8 @@ Revenue breakdown by customer segment per year.
 | total_revenue | Sum of revenue |
 | total_profit | Sum of profit |
 
+![Gold_Layer2](gold_layer2.png)
+
 ### gold_order_priority
 Order distribution by priority classification.
 | Column | Description |
@@ -39,6 +43,8 @@ Order distribution by priority classification.
 | total_orders | Order count |
 | total_revenue | Revenue |
 | total_profit | Profit |
+
+![Gold_Layer3](gold_layer3.png)
 
 ## Tech Stack
 - Microsoft Fabric
